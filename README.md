@@ -1,8 +1,15 @@
-# React + Vite
+## TETRIS-PUNK v1.0.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tecnologias utilizadas
 
-Currently, two official plugins are available:
+ - React
+ - TypeScript
+ - Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalacion
+
+ - Copiar repositorio
+ - Ir a la carpeta del proyecto en una terminal
+ - Ejecutar npm i para instalar dependencias
+ - Ejecutar npm run dev para ejecutar el juego
+ - deberas dar click al boton start game para iniciar el juego
